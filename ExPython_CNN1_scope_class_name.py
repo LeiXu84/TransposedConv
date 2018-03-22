@@ -38,7 +38,6 @@ Stu_2.add_skills("playing dota")
 
 # 2) access variables
 print("Stu_1's info. Name:{}, skills:{}".format(Stu_1.name,Stu_1.skills))
-print(Stu_2.skills)
 print("Stu_2's info. Name:{}, skills:{}".format(Stu_2.name,Stu_2.skills))
 
 
