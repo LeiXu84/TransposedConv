@@ -32,7 +32,6 @@ plt.axis("off")
 plt.show()
 
 
-
 " **convert image from uint8 to double format, display error@.lrn otherwise **"
 def im2double(img):
     min_val = np.min(img.ravel())
